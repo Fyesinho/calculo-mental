@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/calculo-mental/static/css/main.69eda509.chunk.css",
+    "main.js": "/calculo-mental/static/js/main.79ff1c94.chunk.js",
+    "main.js.map": "/calculo-mental/static/js/main.79ff1c94.chunk.js.map",
+    "runtime-main.js": "/calculo-mental/static/js/runtime-main.6e4a1228.js",
+    "runtime-main.js.map": "/calculo-mental/static/js/runtime-main.6e4a1228.js.map",
+    "static/js/2.c4594a35.chunk.js": "/calculo-mental/static/js/2.c4594a35.chunk.js",
+    "static/js/2.c4594a35.chunk.js.map": "/calculo-mental/static/js/2.c4594a35.chunk.js.map",
+    "index.html": "/calculo-mental/index.html",
+    "precache-manifest.a7d1769436df55b3cab29a20eb18cc6f.js": "/calculo-mental/precache-manifest.a7d1769436df55b3cab29a20eb18cc6f.js",
+    "service-worker.js": "/calculo-mental/service-worker.js",
+    "static/css/main.69eda509.chunk.css.map": "/calculo-mental/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.c4594a35.chunk.js.LICENSE.txt": "/calculo-mental/static/js/2.c4594a35.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e4a1228.js",
+    "static/js/2.c4594a35.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.79ff1c94.chunk.js"
+  ]
+}
