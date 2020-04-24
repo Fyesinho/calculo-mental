@@ -47,7 +47,7 @@ class TableSumRes extends Component {
                         <td className={'text-center'}>{this.newRandomNumber(firstNumber, secondNumber, symbol)}</td>
                         <td className={'text-center border-right'}>=</td>
                         <td className={'text-center'}>
-                            <div style={style.square}/>
+
                         </td>
                     </>
                 );

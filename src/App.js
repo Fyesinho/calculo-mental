@@ -26,7 +26,12 @@ function App() {
                 </Col>
                 <Col>
                     <h5>
-                        Nota:
+                        Cantidad 1 minuto:
+                    </h5>
+                </Col>
+                <Col>
+                    <h5>
+                        Tiempo 60 ejercicios:
                     </h5>
                 </Col>
             </Row>
